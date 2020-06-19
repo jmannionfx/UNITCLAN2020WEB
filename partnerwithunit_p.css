@@ -1,19 +1,19 @@
 /*--- Avanquest WebEasy Page Style ---*/
 
 
-.cc25               { /* Common */
+.cc24               { /* Common */
 	font            : 10pt 'Bahnschrift';
 	color           : #000000;
 	}
-.cc26               { /* Common */
+.cc25               { /* Common */
 	font            : 12pt 'Bahnschrift';
 	color           : #ffffff;
 	}
-.cc27               { /* Common */
+.cc26               { /* Common */
 	border          :   0.00pt none #808080;
 	clip            : rect(0.00pt,771.00pt,0.75pt,0.00pt);
 	}
-.cc28               { /* Common */
+.cc27               { /* Common */
 	font            : 8pt 'Bahnschrift';
 	color           : #000000;
 	text-align      : center;
@@ -195,7 +195,7 @@ div#page            { /* Page Holder */
 	background-color: transparent;
 	position        : relative;
 	width           : 783.75pt;
-	height          : 637.50pt;
+	height          : 600.00pt;
 	text-align      : left;
 	margin-left     : auto;
 	margin-right    : auto;
