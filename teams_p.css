@@ -1,0 +1,232 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc20               { /* Common */
+	font            : 10pt 'Bahnschrift';
+	color           : #000000;
+	}
+.cc21               { /* Common */
+	border          :   0.00pt none #808080;
+	clip            : rect(0.00pt,771.00pt,0.75pt,0.00pt);
+	}
+.cc22               { /* Common */
+	font            : 8pt 'Bahnschrift';
+	color           : #000000;
+	text-align      : center;
+	}
+.cc23               { /* Common */
+	font            : bold 12pt 'Bahnschrift';
+	color           : #000000;
+	}
+span#e27            { /* unit2020001012.jpg */
+	background      : transparent url(unit2020001012.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   3.75pt;
+	top             : 126.00pt;
+	width           : 771.75pt;
+	height          : 297.75pt;
+	}
+span#e26            { /* unit2020001017.jpg */
+	background      : transparent url(unit2020001017.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 281.25pt;
+	top             :   9.75pt;
+	width           : 176.25pt;
+	height          :  64.50pt;
+	}
+div#e25             { /* ABOUT */
+	position        : absolute;
+	left            : 150.00pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e24             { /* HOME */
+	position        : absolute;
+	left            :  82.50pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  14.25pt;
+	}
+div#e23             { /* NEWS */
+	position        : absolute;
+	left            : 230.25pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e22             { /* TEAMS */
+	position        : absolute;
+	left            : 317.25pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e21             { /* PARTNERS */
+	position        : absolute;
+	left            : 402.75pt;
+	top             :  96.75pt;
+	width           :  69.75pt;
+	height          :  18.75pt;
+	}
+div#e20             { /* EVENTS */
+	position        : absolute;
+	left            : 516.00pt;
+	top             :  96.75pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+div#e19             { /* CONTACT */
+	position        : absolute;
+	left            : 624.75pt;
+	top             :  96.75pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+span#e18            { /* unit2020001009.jpg */
+	background      : transparent url(unit2020001009.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 682.50pt;
+	top             :   6.75pt;
+	width           :  81.00pt;
+	height          :  38.25pt;
+	}
+img#e17             { /* unit2020001008.jpg */
+	position        : absolute;
+	left            : 734.25pt;
+	top             :   3.75pt;
+	width           :  27.00pt;
+	height          :  39.00pt;
+	}
+img#e16             { /* unit2020001007.jpg */
+	position        : absolute;
+	left            : 708.00pt;
+	top             :   6.00pt;
+	width           :  24.00pt;
+	height          :  39.00pt;
+	}
+span#e15            { /* unit2020004005.gif */
+	background      : transparent url(unit2020004005.gif) no-repeat top left;
+	position        : absolute;
+	left            :   5.25pt;
+	top             :1301.25pt;
+	width           : 771.00pt;
+	height          :   0.75pt;
+	}
+div#e14             { /* C 2020 UNIT GAMING EST 2... */
+	position        : absolute;
+	left            :   9.75pt;
+	top             :1363.50pt;
+	width           : 767.25pt;
+	height          :  21.75pt;
+	}
+div#e13             { /* ABOUT */
+	position        : absolute;
+	left            : 139.50pt;
+	top             :1308.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e12             { /* NEWS */
+	position        : absolute;
+	left            : 219.75pt;
+	top             :1308.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e11             { /* TEAMS */
+	position        : absolute;
+	left            : 306.75pt;
+	top             :1308.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e10             { /* HOME */
+	position        : absolute;
+	left            :  72.00pt;
+	top             :1308.75pt;
+	width           :  48.75pt;
+	height          :  14.25pt;
+	}
+div#e9              { /* PARTNERS */
+	position        : absolute;
+	left            : 392.25pt;
+	top             :1308.75pt;
+	width           :  69.75pt;
+	height          :  18.75pt;
+	}
+div#e8              { /* EVENTS */
+	position        : absolute;
+	left            : 505.50pt;
+	top             :1308.75pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+div#e7              { /* CONTACT */
+	position        : absolute;
+	left            : 614.25pt;
+	top             :1308.75pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+span#e6             { /* unit2020004004.jpg */
+	background      : transparent url(unit2020004004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 642.75pt;
+	top             : 131.25pt;
+	width           : 129.00pt;
+	height          : 111.00pt;
+	}
+div#e5              { /* Meet the Clan - presentl... */
+	position        : absolute;
+	left            :  24.75pt;
+	top             : 498.75pt;
+	width           : 759.00pt;
+	height          :  61.50pt;
+	}
+img#e4              { /* unit2020004003.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 133.50pt;
+	width           : 755.25pt;
+	height          :1134.75pt;
+	}
+span#e3             { /* unit2020001009.jpg */
+	background      : transparent url(unit2020001009.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 696.00pt;
+	top             :1311.75pt;
+	width           :  81.00pt;
+	height          :  38.25pt;
+	}
+img#e2              { /* unit2020001008.jpg */
+	position        : absolute;
+	left            : 747.75pt;
+	top             :1308.75pt;
+	width           :  27.00pt;
+	height          :  39.00pt;
+	}
+img#e1              { /* unit2020001007.jpg */
+	position        : absolute;
+	left            : 721.50pt;
+	top             :1311.00pt;
+	width           :  24.00pt;
+	height          :  39.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 783.75pt;
+	height          :1500.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
