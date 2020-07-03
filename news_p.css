@@ -1,0 +1,459 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc15               { /* Common */
+	font            : 18pt 'Bahnschrift';
+	color           : #000000;
+	}
+.cc16               { /* Common */
+	font            : 12pt 'Bahnschrift';
+	color           : #000000;
+	}
+.cc17               { /* Common */
+	border          :   0.00pt none #808080;
+	clip            : rect(0.00pt,771.00pt,0.75pt,0.00pt);
+	}
+.cc18               { /* Common */
+	font            : 36pt 'Bahnschrift';
+	color           : #000000;
+	}
+.cc19               { /* Common */
+	font            : 8pt 'Bahnschrift';
+	color           : #000000;
+	text-align      : center;
+	}
+.cc20               { /* Common */
+	font            : 10pt 'Bahnschrift';
+	color           : #000000;
+	}
+.cc21               { /* Common */
+	font            : 45pt 'Bahnschrift';
+	color           : #ffffff;
+	}
+.cc22               { /* Common */
+	font            : 12pt 'Bahnschrift';
+	color           : #ffffff;
+	}
+.cc23               { /* Common */
+	font            : 18pt 'Bahnschrift';
+	color           : #ffffff;
+	}
+.cc24               { /* Common */
+	font            : italic 8pt 'Bahnschrift';
+	color           : #000000;
+	}
+span#e55            { /* unit2020003014.jpg */
+	background      : transparent url(unit2020003014.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 505.50pt;
+	top             :1673.25pt;
+	width           : 234.00pt;
+	height          : 246.75pt;
+	}
+span#e54            { /* unit2020003013.jpg */
+	background      : transparent url(unit2020003013.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 549.00pt;
+	top             :1486.50pt;
+	width           : 180.75pt;
+	height          : 155.25pt;
+	}
+span#e53            { /* unit2020003012.jpg */
+	background      : transparent url(unit2020003012.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  23.25pt;
+	top             :1161.00pt;
+	width           : 672.00pt;
+	height          : 262.50pt;
+	}
+span#e52            { /* unit2020003011.jpg */
+	background      : transparent url(unit2020003011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 585.00pt;
+	top             : 882.00pt;
+	width           : 144.00pt;
+	height          : 144.00pt;
+	}
+span#e51            { /* unit2020003010.jpg */
+	background      : transparent url(unit2020003010.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 465.75pt;
+	width           : 412.50pt;
+	height          : 412.50pt;
+	}
+div#e50             { /* [News June 2020] */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 447.75pt;
+	width           : 614.25pt;
+	height          :  24.75pt;
+	}
+div#e49             { /* [News June 2020] */
+	position        : absolute;
+	left            :  17.25pt;
+	top             : 883.50pt;
+	width           : 614.25pt;
+	height          :  24.75pt;
+	}
+div#e48             { /* [News June 2020] */
+	position        : absolute;
+	left            :  17.25pt;
+	top             :1068.00pt;
+	width           : 614.25pt;
+	height          :  24.75pt;
+	}
+div#e47             { /* [News June 2020] */
+	position        : absolute;
+	left            :  16.50pt;
+	top             :1495.50pt;
+	width           : 614.25pt;
+	height          :  24.75pt;
+	}
+div#e46             { /* <hr> */
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 855.75pt;
+	width           : 752.25pt;
+	height          :  15.75pt;
+	}
+div#e45             { /* <hr> */
+	position        : absolute;
+	left            :  18.00pt;
+	top             :1050.00pt;
+	width           : 752.25pt;
+	height          :  15.75pt;
+	}
+div#e44             { /* <hr> */
+	position        : absolute;
+	left            :  18.00pt;
+	top             :1475.25pt;
+	width           : 752.25pt;
+	height          :  15.75pt;
+	}
+div#e43             { /* <hr> */
+	position        : absolute;
+	left            :  17.25pt;
+	top             :1641.00pt;
+	width           : 752.25pt;
+	height          :  15.75pt;
+	}
+span#e42            { /* unit2020001010.jpg */
+	background      : transparent url(unit2020001010.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   3.75pt;
+	top             : 125.25pt;
+	width           : 769.50pt;
+	height          : 297.75pt;
+	}
+span#e41            { /* unit2020001017.jpg */
+	background      : transparent url(unit2020001017.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 281.25pt;
+	top             :   9.75pt;
+	width           : 176.25pt;
+	height          :  64.50pt;
+	}
+span#e40            { /* unit2020003009.gif */
+	background      : transparent url(unit2020003009.gif) no-repeat top left;
+	position        : absolute;
+	left            :   4.50pt;
+	top             :1941.75pt;
+	width           : 771.00pt;
+	height          :   0.75pt;
+	}
+div#e39             { /* FACEBOOK PAGE LAUNCH */
+	position        : absolute;
+	left            :  54.00pt;
+	top             :1707.75pt;
+	width           : 614.25pt;
+	height          :  43.50pt;
+	}
+div#e38             { /* C 2020 UNIT GAMING EST 2... */
+	position        : absolute;
+	left            :   9.00pt;
+	top             :2007.75pt;
+	width           : 767.25pt;
+	height          :  21.75pt;
+	}
+div#e37             { /* ABOUT */
+	position        : absolute;
+	left            : 150.00pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e36             { /* HOME */
+	position        : absolute;
+	left            :  82.50pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  14.25pt;
+	}
+div#e35             { /* NEWS */
+	position        : absolute;
+	left            : 230.25pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e34             { /* TEAMS */
+	position        : absolute;
+	left            : 317.25pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e33             { /* PARTNERS */
+	position        : absolute;
+	left            : 402.75pt;
+	top             :  96.75pt;
+	width           :  69.75pt;
+	height          :  18.75pt;
+	}
+div#e32             { /* EVENTS */
+	position        : absolute;
+	left            : 516.00pt;
+	top             :  96.75pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+div#e31             { /* CONTACT */
+	position        : absolute;
+	left            : 624.75pt;
+	top             :  96.75pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+div#e30             { /* As 2020 progressed a dis... */
+	position        : absolute;
+	left            :  15.75pt;
+	top             :1753.50pt;
+	width           : 734.25pt;
+	height          : 156.75pt;
+	}
+span#e29            { /* unit2020001009.jpg */
+	background      : transparent url(unit2020001009.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 682.50pt;
+	top             :   6.75pt;
+	width           :  81.00pt;
+	height          :  38.25pt;
+	}
+img#e28             { /* unit2020001008.jpg */
+	position        : absolute;
+	left            : 734.25pt;
+	top             :   3.75pt;
+	width           :  27.00pt;
+	height          :  39.00pt;
+	}
+img#e27             { /* unit2020001007.jpg */
+	position        : absolute;
+	left            : 708.00pt;
+	top             :   6.00pt;
+	width           :  24.00pt;
+	height          :  39.00pt;
+	}
+div#e26             { /* ABOUT */
+	position        : absolute;
+	left            : 150.75pt;
+	top             :1957.50pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e25             { /* HOME */
+	position        : absolute;
+	left            :  83.25pt;
+	top             :1957.50pt;
+	width           :  48.75pt;
+	height          :  14.25pt;
+	}
+div#e24             { /* NEWS */
+	position        : absolute;
+	left            : 231.00pt;
+	top             :1957.50pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e23             { /* TEAMS */
+	position        : absolute;
+	left            : 318.00pt;
+	top             :1957.50pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e22             { /* PARTNERS */
+	position        : absolute;
+	left            : 403.50pt;
+	top             :1957.50pt;
+	width           :  69.75pt;
+	height          :  18.75pt;
+	}
+div#e21             { /* EVENTS */
+	position        : absolute;
+	left            : 516.75pt;
+	top             :1957.50pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+div#e20             { /* CONTACT */
+	position        : absolute;
+	left            : 625.50pt;
+	top             :1957.50pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+div#e19             { /* [News May 2020] */
+	position        : absolute;
+	left            :  17.25pt;
+	top             :1686.75pt;
+	width           : 614.25pt;
+	height          :  27.00pt;
+	}
+div#e18             { /* NEWS, UPDATES & MORE */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 129.75pt;
+	width           : 543.00pt;
+	height          : 162.00pt;
+	}
+div#e17             { /* WELCOME UNIT MALONE */
+	position        : absolute;
+	left            :  54.00pt;
+	top             :1529.25pt;
+	width           : 614.25pt;
+	height          :  43.50pt;
+	}
+div#e16             { /* With recruitment on the ... */
+	position        : absolute;
+	left            :  19.50pt;
+	top             :1571.25pt;
+	width           : 735.00pt;
+	height          : 111.75pt;
+	}
+div#e15             { /* If you wish to keep up t... */
+	position        : absolute;
+	left            :  24.75pt;
+	top             : 369.75pt;
+	width           : 430.50pt;
+	height          :  30.75pt;
+	}
+div#e14             { /* [KEEP IN TOUCH] */
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 333.75pt;
+	width           : 614.25pt;
+	height          :  24.00pt;
+	}
+img#e13             { /* unit2020003006.jpg */
+	position        : absolute;
+	left            :  16.50pt;
+	top             :1714.50pt;
+	width           :  30.75pt;
+	height          :  32.25pt;
+	}
+span#e12            { /* unit2020003005.jpg */
+	background      : transparent url(unit2020003005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  15.00pt;
+	top             :1532.25pt;
+	width           :  40.50pt;
+	height          :  35.25pt;
+	}
+div#e11             { /* CCB 10 Man (PUBG) League */
+	position        : absolute;
+	left            :  54.00pt;
+	top             :1095.00pt;
+	width           : 614.25pt;
+	height          :  45.00pt;
+	}
+div#e10             { /* Its Week 1 of the CCB 10... */
+	position        : absolute;
+	left            :  19.50pt;
+	top             :1144.50pt;
+	width           : 276.75pt;
+	height          : 350.25pt;
+	}
+span#e9             { /* unit2020003004.jpg */
+	background      : transparent url(unit2020003004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  21.00pt;
+	top             :1098.75pt;
+	width           :  31.50pt;
+	height          :  31.50pt;
+	}
+div#e8              { /* WELCOME UNIT YETI */
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 917.25pt;
+	width           : 614.25pt;
+	height          :  43.50pt;
+	}
+div#e7              { /* Welcome UNIT YETI to the... */
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 959.25pt;
+	width           : 735.00pt;
+	height          :  94.50pt;
+	}
+span#e6             { /* unit2020003003.jpg */
+	background      : transparent url(unit2020003003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  15.75pt;
+	top             : 934.50pt;
+	width           :  40.50pt;
+	height          :  35.25pt;
+	}
+div#e5              { /* UNIT HAS JOINED TWITCH */
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 484.50pt;
+	width           : 614.25pt;
+	height          :  43.50pt;
+	}
+div#e4              { /* UNIT are now on Twitch a... */
+	position        : absolute;
+	left            :  39.75pt;
+	top             : 534.75pt;
+	width           : 356.25pt;
+	height          : 252.00pt;
+	}
+span#e3             { /* unit2020003002.jpg */
+	background      : transparent url(unit2020003002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.75pt;
+	top             : 489.75pt;
+	width           :  31.50pt;
+	height          :  31.50pt;
+	}
+div#e2              { /* Video Created By UNIT MC... */
+	position        : absolute;
+	left            : 349.50pt;
+	top             :1155.00pt;
+	width           : 252.75pt;
+	height          :  12.00pt;
+	}
+img#e1              { /* unit2020003001.jpg */
+	position        : absolute;
+	left            : 441.00pt;
+	top             : 543.00pt;
+	width           : 328.50pt;
+	height          : 183.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 783.75pt;
+	height          :2137.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
