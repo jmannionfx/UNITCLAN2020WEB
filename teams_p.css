@@ -1,0 +1,264 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc21               { /* Common */
+	border          :   0.00pt none #808080;
+	clip            : rect(0.00pt,771.00pt,0.75pt,0.00pt);
+	}
+.cc22               { /* Common */
+	font            : 8pt 'Bahnschrift';
+	color           : #000000;
+	text-align      : center;
+	}
+.cc23               { /* Common */
+	font            : 10pt 'Bahnschrift';
+	color           : #000000;
+	}
+.cc24               { /* Common */
+	font            : 45pt 'Bahnschrift';
+	color           : #ffffff;
+	}
+.cc25               { /* Common */
+	font            : 12pt 'Bahnschrift';
+	color           : #000000;
+	}
+span#e31            { /* unit2020004011.gif */
+	background      : transparent url(unit2020004011.gif) no-repeat top left;
+	position        : absolute;
+	left            :   5.25pt;
+	top             :1664.25pt;
+	width           : 771.00pt;
+	height          :   0.75pt;
+	}
+div#e30             { /* C 2020 UNIT GAMING EST 2... */
+	position        : absolute;
+	left            :   9.75pt;
+	top             :1726.50pt;
+	width           : 767.25pt;
+	height          :  21.75pt;
+	}
+div#e29             { /* ABOUT */
+	position        : absolute;
+	left            : 139.50pt;
+	top             :1671.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e28             { /* CONTENT */
+	position        : absolute;
+	left            : 219.75pt;
+	top             :1671.75pt;
+	width           :  48.75pt;
+	height          :  15.00pt;
+	}
+div#e27             { /* TEAMS */
+	position        : absolute;
+	left            : 306.75pt;
+	top             :1671.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e26             { /* HOME */
+	position        : absolute;
+	left            :  72.00pt;
+	top             :1671.75pt;
+	width           :  48.75pt;
+	height          :  14.25pt;
+	}
+div#e25             { /* PARTNERS */
+	position        : absolute;
+	left            : 392.25pt;
+	top             :1671.75pt;
+	width           :  69.75pt;
+	height          :  18.75pt;
+	}
+div#e24             { /* EVENTS */
+	position        : absolute;
+	left            : 505.50pt;
+	top             :1671.75pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+div#e23             { /* CONTACT */
+	position        : absolute;
+	left            : 614.25pt;
+	top             :1671.75pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+span#e22            { /* unit2020001014.jpg */
+	background      : transparent url(unit2020001014.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   3.75pt;
+	top             : 125.25pt;
+	width           : 769.50pt;
+	height          : 297.75pt;
+	}
+div#e21             { /* ABOUT */
+	position        : absolute;
+	left            : 150.00pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e20             { /* HOME */
+	position        : absolute;
+	left            :  82.50pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  14.25pt;
+	}
+div#e19             { /* TEAMS */
+	position        : absolute;
+	left            : 317.25pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  17.25pt;
+	}
+div#e18             { /* PARTNERS */
+	position        : absolute;
+	left            : 402.75pt;
+	top             :  96.75pt;
+	width           :  69.75pt;
+	height          :  18.75pt;
+	}
+div#e17             { /* EVENTS */
+	position        : absolute;
+	left            : 516.00pt;
+	top             :  96.75pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+div#e16             { /* CONTACT */
+	position        : absolute;
+	left            : 624.75pt;
+	top             :  96.75pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+div#e15             { /* PUBG TEAM  */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 129.75pt;
+	width           : 543.00pt;
+	height          :  56.25pt;
+	}
+span#e14            { /* unit2020004010.jpg */
+	background      : transparent url(unit2020004010.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 428.25pt;
+	width           :  76.50pt;
+	height          :  66.75pt;
+	}
+span#e13            { /* unit2020001021.jpg */
+	background      : transparent url(unit2020001021.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 618.00pt;
+	top             :   3.00pt;
+	width           : 161.25pt;
+	height          :  25.50pt;
+	}
+img#e12             { /* unit2020001010.jpg */
+	position        : absolute;
+	left            : 643.50pt;
+	top             :   4.50pt;
+	width           :  20.25pt;
+	height          :  22.50pt;
+	}
+img#e11             { /* unit2020001009.jpg */
+	position        : absolute;
+	left            : 688.50pt;
+	top             :   5.25pt;
+	width           :  20.25pt;
+	height          :  22.50pt;
+	}
+img#e10             { /* unit2020001008.jpg */
+	position        : absolute;
+	left            : 666.00pt;
+	top             :   5.25pt;
+	width           :  20.25pt;
+	height          :  22.50pt;
+	}
+img#e9              { /* unit2020001007.jpg */
+	position        : absolute;
+	left            : 621.00pt;
+	top             :   4.50pt;
+	width           :  20.25pt;
+	height          :  22.50pt;
+	}
+img#e8              { /* unit2020001006.jpg */
+	position        : absolute;
+	left            : 734.25pt;
+	top             :   4.50pt;
+	width           :  20.25pt;
+	height          :  22.50pt;
+	}
+img#e7              { /* unit2020001005.jpg */
+	position        : absolute;
+	left            : 756.75pt;
+	top             :   5.25pt;
+	width           :  20.25pt;
+	height          :  22.50pt;
+	}
+img#e6              { /* unit2020001004.jpg */
+	position        : absolute;
+	left            : 711.00pt;
+	top             :   5.25pt;
+	width           :  20.25pt;
+	height          :  22.50pt;
+	}
+div#e5              { /* Presently UNIT have a sm... */
+	position        : absolute;
+	left            :  39.75pt;
+	top             :1266.00pt;
+	width           : 741.00pt;
+	height          :  15.75pt;
+	}
+span#e4             { /* unit2020004002.jpg */
+	background      : transparent url(unit2020004002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 557.25pt;
+	top             : 399.00pt;
+	width           : 222.75pt;
+	height          : 131.25pt;
+	}
+span#e3             { /* unit2020001022.jpg */
+	background      : transparent url(unit2020001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 274.50pt;
+	top             :   0.00pt;
+	width           : 185.25pt;
+	height          :  83.25pt;
+	}
+img#e2              { /* unit2020004001.jpg */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 186.75pt;
+	width           : 756.75pt;
+	height          :1464.75pt;
+	}
+div#e1              { /* CONTENT */
+	position        : absolute;
+	left            : 230.25pt;
+	top             :  96.75pt;
+	width           :  48.75pt;
+	height          :  15.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 783.75pt;
+	height          :1875.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
